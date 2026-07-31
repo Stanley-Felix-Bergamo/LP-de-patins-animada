@@ -16,5 +16,5 @@
 <br>
 
 ##  🎨 Design :
-Acesse<a href="figma.com/design/AhGjHjyadNn3grtAkfZXvL/LP-de-patins-animada--Community-?node-id=928-587&t=N4CqQi4C76IQoQGn-0" target="_blank"> aqui</a>
+Acesse<a href="https://www.figma.com/design/AhGjHjyadNn3grtAkfZXvL/LP-de-patins-animada--Community-?node-id=0-1&p=f&t=N4CqQi4C76IQoQGn-0" target="_blank"> aqui</a>
 </div> 
