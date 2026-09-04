@@ -1,6 +1,6 @@
 ## LP de patins animada
 
-<img src='' alt=" A Imagem ainda não está disponível">
+<img src='https://raw.githubusercontent.com/Stanley-Felix-Bergamo/LP-de-patins-animada/refs/heads/main/assets/print.png' alt=" A Imagem ainda não está disponível">
 
  ##  📜 Projeto :
  <p>Projeto front-end em Html desenvolvida durante as aulas da Rocketseat</p>
